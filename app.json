@@ -1,10 +1,10 @@
 {
-	"name": "cloud-torrent",
-	"website": "https://github.com/jpillora/cloud-torrent",
-	"repository": "https://github.com/jpillora/cloud-torrent",
+	"name": "clot",
+	"website": "https://github.com/2lee-ch/clot",
+	"repository": "https://github.com/2lee-ch/clot",
 	"env": {
 		"TITLE": {
-			"description": "Optionally set the title of this instance (defaults to 'Cloud Torrent')",
+			"description": "Optionally set the title of this instance (defaults to 'CloT')",
 			"required": false
 		},
 		"AUTH": {
